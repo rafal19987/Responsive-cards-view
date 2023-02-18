@@ -157,15 +157,8 @@ article p {
   }
 }
 
-/* large tablet & laptop styles */
-@media screen and (min-width: 960px) {
-  body {
-    font-size: 18px;
-  }
-}
-
 /* desktop styles */
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1250px) {
   .container {
     display: flex;
     max-width: 90%;
